@@ -30,3 +30,5 @@ fields:
 - type: file
   name: hero
   label: Hero Image
+pages:
+- content/blog-posts/getting-lost.md
