@@ -4,7 +4,5 @@ theme = "tale-theme"
 title = "Getting Lost"
 [[menu.main]]
 name = "Posts"
-post = "<span class='alert'>New!</span>"
-pre = "<i class='fa fa-road'></i>"
 url = "/blog-posts/"
 weight = 2
