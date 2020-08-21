@@ -5,4 +5,4 @@ title = "Getting Lost"
 [[menu.main]]
 name = "Posts"
 url = "/blog-posts/"
-weight = 2
+weight = 1
