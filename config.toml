@@ -2,19 +2,9 @@ baseURL = "/"
 languageCode = "en-us"
 theme = "tale-theme"
 title = "Getting Lost"
-
-[menu]
-
-  [[menu.main]]
-    identifier = "about"
-    name = "about hugo"
-    pre = "<i class='fa fa-heart'></i>"
-    url = "/about/"
-    weight = -110
-
-  [[menu.main]]
-    name = "posts"
-    post = "<span class='alert'>New!</span>"
-    pre = "<i class='fa fa-road'></i>"
-    url = "/blog-posts/"
-    weight = -100
+[[menu.main]]
+name = "posts"
+post = "<span class='alert'>New!</span>"
+pre = "<i class='fa fa-road'></i>"
+url = "/blog-posts/"
+weight = 2

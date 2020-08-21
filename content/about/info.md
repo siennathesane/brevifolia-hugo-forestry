@@ -6,6 +6,11 @@ contact_info:
   twitter_handle: mxplusc
   twitter_url: https://twitter.com/mxplusc
 type: ''
+menu:
+  main:
+    identifier: about
+    pre: "<i class='fa fa-heart'></i>"
+    weight: 1
 
 ---
 I'm a software developer turned student. I have absolutely no idea what the fuck I'm doing. I figure if I can talk about it, then maybe it'll help someone else.
