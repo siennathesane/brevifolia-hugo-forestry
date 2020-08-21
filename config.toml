@@ -3,7 +3,7 @@ languageCode = "en-us"
 theme = "tale-theme"
 title = "Getting Lost"
 [[menu.main]]
-name = "posts"
+name = "Posts"
 post = "<span class='alert'>New!</span>"
 pre = "<i class='fa fa-road'></i>"
 url = "/blog-posts/"
